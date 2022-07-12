@@ -4,9 +4,7 @@
 
 ![App Screen](./src/assets/app-screen.png)
 
-Simple project to create custom memes. [See it live](https://pd-meme-generator.netlify.app/).
-
-### Under the hood
+Generate your meme here:(https://pd-meme-generator.netlify.app/).
 
 - React JS
 - React Context API
